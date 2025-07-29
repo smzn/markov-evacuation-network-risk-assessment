@@ -1,0 +1,28 @@
+＊＊＊＊静岡県森町＊＊＊＊
+市町村名「静岡県森町」で初期化しました。
+Initialized with municipality: 静岡県森町
+
+22461
+ローカルファイルを使用します: ../data/r2ka22461.topojson
+成功: データの読み込みが完了しました。（静岡県森町）
+Success: Data loading completed. (静岡県森町)
+中心座標（Center）: (34.84957, 137.92891)
+Centroid (latitude, longitude): (34.84957, 137.92891)
+地図を ../results/静岡県森町.html に保存しました。
+
+タイル読み込み完了: 14 タイル / Loaded 14 tiles
+統合完了！ shape: (16500, 37125) / Merge complete!
+NaN を一括補間中... / Interpolating NaN values...
+補間完了 / Interpolation complete
+統合配列を保存しました: ../results/静岡県森町elev.npy / .csv
+緯度経度範囲をインスタンス変数として保存しました。 / Saved coordinate range to instance attributes
+高度情報のcsvおよびnpy保存完了 / Elevation data saved.
+
+要支援者人数の割り当てが完了しました。 / Support needs assignment complete.
+
+避難所データが正常にロードされました。対象避難所数: 16
+要支援者データと避難所情報が ../results/静岡県森町_node.csv に保存されました。
+要支援者と避難所のノード生成完了
+
+状態をresultsフォルダに保存しました。
+メタデータ保存
